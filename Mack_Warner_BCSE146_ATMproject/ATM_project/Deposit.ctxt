@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=userAccountNumber\ atmScreen\ bankDatabase\ UI\ atmDepositSlot
+comment0.target=Deposit(int,\ Screen,\ BankDataBase,\ UserInterface,\ DepositSlot)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Deposit\r\n
+comment1.params=
+comment1.target=void\ execute()
+comment2.params=
+comment2.target=double\ promptForDepositAmount()
+numComments=3

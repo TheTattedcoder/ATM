@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.params=theAccountNumber\ thePIN\ theAvailableBalance\ theTotalBalance
+comment0.target=Account(int,\ int,\ double,\ double)
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Account\r\n
+comment1.params=userPIN
+comment1.target=boolean\ validatePIN(int)
+comment2.params=
+comment2.target=double\ getAvailableBalance()
+comment3.params=
+comment3.target=double\ getTotalBalance()
+comment4.params=amount
+comment4.target=void\ credit(double)
+comment5.params=amount
+comment5.target=void\ debit(double)
+comment6.params=
+comment6.target=int\ getAccountNumber()
+numComments=7

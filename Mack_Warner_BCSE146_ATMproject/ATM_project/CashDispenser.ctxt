@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.params=
+comment0.target=CashDispenser()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ CashDispenser\r\n
+comment1.params=amount
+comment1.target=void\ dispenseCash(int)
+comment2.params=amount
+comment2.target=boolean\ isSufficientCashAvailable(int)
+numComments=3

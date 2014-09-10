@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.params=userAccountNumber\ atmScreen\ atmBankDatabase\ atmKeypad\ atmCashDispenser
+comment0.target=Withdrawal(int,\ Screen,\ BankDataBase,\ UserInterface,\ CashDispenser)
+comment1.params=
+comment1.target=void\ execute()
+comment2.params=
+comment2.target=int\ displayMenuOfAmounts()
+numComments=3

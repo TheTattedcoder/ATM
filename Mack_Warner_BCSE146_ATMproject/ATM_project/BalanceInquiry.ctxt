@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.params=userAccountNumber\ atmScreen\ atmBankDatabase\ face
+comment0.target=BalanceInquiry(int,\ Screen,\ BankDataBase,\ UserInterface)
+comment1.params=
+comment1.target=void\ execute()
+numComments=2

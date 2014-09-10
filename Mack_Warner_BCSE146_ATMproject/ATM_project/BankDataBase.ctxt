@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.params=
+comment0.target=BankDataBase()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ BankDataBase\r\n
+comment1.params=accountNumber
+comment1.target=Account\ getAccount(int)
+comment1.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\ \r\n\ @param\ \ y\ \ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ \ the\ sum\ of\ x\ and\ y\ \r\n
+comment2.params=userAccountNumber\ userPIN
+comment2.target=boolean\ authenticateUser(int,\ int)
+comment3.params=userAccountNumber
+comment3.target=double\ getAvailableBalance(int)
+comment4.params=userAccountNumber
+comment4.target=double\ getTotalBalance(int)
+comment5.params=userAccountNumber\ amount
+comment5.target=void\ credit(int,\ double)
+comment6.params=userAccountNumber\ amount
+comment6.target=void\ debit(int,\ double)
+numComments=7
